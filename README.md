@@ -1,5 +1,9 @@
 Project Description:
 This project showcases a comprehensive Sales Analysis Dashboard created using Power BI. The dashboard provides insights into sales performance, outlet locations, item types, and key business metrics. It is designed to help stakeholders make informed decisions by visualizing critical data in an interactive and user-friendly way.
+
+Data Cleaning:Eliminated redundant columns and duplicate entries to ensure data consistency.Addressed missing values and adjusted data types to align with analytical requirements.
+Data Analysis:Applied DAX functions, created measures, and utilized calculated columns to conduct comprehensive analyses.
+
 Key Features:
 
 1.	KPI Cards:
@@ -20,17 +24,11 @@ Key Features:
 •	Outlet Performance:	Donut chart showing sales contribution by outlet size.Tier-wise sales analysis using horizontal bars.
 •	Outlet Type Analysis:Table view summarizing sales, average sales, average ratings, and the number of items by outlet type.
 
-Technologies Used:
-•	Power BI:
-•	Data cleaning and transformation using Power Query.
-•	Custom measures and calculated fields using DAX.
-•	Interactive dashboards for business intelligence insights.
-•	Data Sources:
-•	Sales data for various outlets, item types, and performance metrics.
 Learning Outcomes:
 1.	Improved skills in creating interactive and insightful dashboards.
 2.	Hands-on experience with Power BI features, including DAX, Power Query, and visualizations.
 3.	Gained expertise in analyzing and presenting sales and operational data effectively.
+   
 Usage:
 This dashboard can be utilized for:
 •	Monitoring outlet performance across different regions and sizes.
